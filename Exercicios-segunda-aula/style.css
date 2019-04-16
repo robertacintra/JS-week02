@@ -1,0 +1,12 @@
+* {
+    font-family: 'Dekko', cursive;
+}
+
+.container {
+    text-align: center;
+}
+
+li {
+    display: flex;
+    flex-direction: column;
+}

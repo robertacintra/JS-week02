@@ -1,0 +1,13 @@
+* {
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+body {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.jokenpo {
+    display: none;
+}
