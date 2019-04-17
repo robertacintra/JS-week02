@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./easter.webp);
+    background-size: cover;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif; 
+    color: white;
+    
+}
+
+.container {
+    padding: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card {
+    border-radius: 10px;
+    padding: 20px;
+    min-height: 400px;
+    margin-top: 40px;
+}
+
+.hidden {
+    display: none;
+}
+
+.result {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+fieldset {
+    border: 0 none;
+}
+
+label {
+    display: block;
+}
+
+select {
+    font-size: 16px;
+}
